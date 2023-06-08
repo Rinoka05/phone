@@ -1,0 +1,7 @@
+D:\programming\c_sharp\oop\phone\phone\obj\Debug\phone.csproj.AssemblyReference.cache
+D:\programming\c_sharp\oop\phone\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+D:\programming\c_sharp\oop\phone\phone\bin\Debug\phone.exe.config
+D:\programming\c_sharp\oop\phone\phone\bin\Debug\phone.exe
+D:\programming\c_sharp\oop\phone\phone\bin\Debug\phone.pdb
+D:\programming\c_sharp\oop\phone\phone\obj\Debug\phone.exe
+D:\programming\c_sharp\oop\phone\phone\obj\Debug\phone.pdb
